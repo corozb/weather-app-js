@@ -4,7 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "build": "webpack-p"
+    "dev": "webpack serve",
+    "build": "webpack --mode production"
   },
   "keywords": [],
   "author": "",
